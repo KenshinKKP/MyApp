@@ -82,7 +82,7 @@ function Home() {
   <li><a href="coolkaj@gmail.com">Email</a></li>
   <li><a href="https://www.linkedin.com/in/kajal-parikh-a65855126">LinkedIn</a></li>
 </ul>
-  <img src={logo2} alt="STRESS" /><br/></div>
+  <img src={logo2} alt="STRESS"/><br/></div>
 }
 
 function About() {

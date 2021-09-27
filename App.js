@@ -59,23 +59,41 @@ function Home() {
   return <div><h2>Home</h2>
   Namaste! My name is Kajal. I warmly welcome you to my page.<br/>
   <br/>
-  A one-minute introduction of myself:<br/>
+  A quick and brief introduction of myself:<br/>
   <br/>
+  Professional life:<br/>
+  <br/>
+  * Have been working for the past 16 years.<br/>
+  * Jos Scope so far include Customer Service, Events Management, Emcee-ing and Sales & Marketing.<br/>
+  * Currently working for the Singapore Mediation Centre in the Business Development team.<br/>
+  * Latest feather to add to that work hat - Coding and Programming. Gotta thank Covid for this opportunity - for which I would have not known I had a knack for it!<br/>
+  <br/>
+  <br/>
+  Personal life:<br/>
   * I love dancing - have done Indian Classical Dance, Jazz, Salsa and those crazy dances you do with friends :)<br/>
-  <br/>
   * Currently hooked on K-dramas and listening to K-Pop (aren't most of us today?)<br/>
-  <br/>
   * I love to read all those murder-mystery books and having my imagination run wild! I just got my hands on a Kindle but the feeling of a page turner with an actual book is... uuuuf!<br/>
-  <br/> 
-  * Finally, I am now trying my hands at coding (and am totally clueless at it... hahahaahha but loving it at the same time).<br/>
-  <br/>
+  * I am now trying my hands at coding (and am totally clueless at it... hahahaahha but loving it at the same time).<br/>
+    <br/>
+  <p>If you would like to know more on Mediation, or on a lighter note, gush about Kenshin, feel free to drop me a message on any of the following platforms:</p>
+
+<ul>
+  <li><a href="https://www.facebook.com/kajal.k.parikh">facebook</a></li>
+  <li><a href="coolkaj@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/kajal-parikh-a65855126">LinkedIn</a></li>
+</ul>
   <img src={logo2} alt="STRESS" /><br/></div>
 }
 
 function About() {
-  return <div><h2>About</h2>
+  return <div><h2>About Kenshin Himura</h2>
   <img src={logo} alt="kenshin" /><br/>
-
+  <br/>
+    Allow me to introduce Kenshin Himura to you:<br/>
+    <br/>
+    {Kenshin}
+    <br/>
+    <h2>Why I am totally floored by him?</h2><br/>
     This is the one anime I have been totally in love with when I first watched it back in 1993.<br/>
   <br/>
     I vividly remember - it was 5pm, my younger brother and I were flipping the tv channels (and cable was just introduced in Singapore - FINALLY!).<br/>
@@ -84,9 +102,7 @@ function About() {
   <br/>
     And that, instantly got us hooked onto the crazy world of Kenshin and Anime!<br/>
   <br/>
-  <br/>
-  Allow me to share with you a little bit about Kenshin:
-  {Kenshin}</div>
+    </div>
 }
 
 function Users() {
